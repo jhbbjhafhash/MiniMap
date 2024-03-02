@@ -1,2 +1,2 @@
-# MiniMap
+----->>https://jhbbjhafhash.github.io/MiniMap/<<-----
  
