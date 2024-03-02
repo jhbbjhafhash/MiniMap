@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e6fddbb122bd20c4c9ccb8328f784a91
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PatrolRoute: {fileID: 6653431130181155341, guid: 61f168955a95bd14fb3d7eace0f76949, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
